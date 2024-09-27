@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/totality-frontend-challenge/static/css/main.e4020242.css",
+    "main.js": "/totality-frontend-challenge/static/js/main.55e5bc2a.js",
+    "static/js/453.fbb5dc62.chunk.js": "/totality-frontend-challenge/static/js/453.fbb5dc62.chunk.js",
+    "index.html": "/totality-frontend-challenge/index.html",
+    "main.e4020242.css.map": "/totality-frontend-challenge/static/css/main.e4020242.css.map",
+    "main.55e5bc2a.js.map": "/totality-frontend-challenge/static/js/main.55e5bc2a.js.map",
+    "453.fbb5dc62.chunk.js.map": "/totality-frontend-challenge/static/js/453.fbb5dc62.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4020242.css",
+    "static/js/main.55e5bc2a.js"
+  ]
+}
