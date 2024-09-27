@@ -36,4 +36,4 @@ Functionality:
 -Media Queries: Implement media queries to ensure elements (e.g., the property grid, cart, and checkout form) reflow properly on different screen sizes.
 -Responsive Nav Bar: Implement a responsive navigation bar that collapses into a hamburger menu on small screens.
 
-Website Link: https://redwolf1007.github.io/
+Website Link: [https://redwolf1007.github.io/](https://redwolf1007.github.io/totality-frontend-challenge/)
