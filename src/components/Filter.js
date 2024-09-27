@@ -44,10 +44,10 @@ const Filter = ({ onFilter }) => {
         </label>
         <select value={priceRange} onChange={handlePriceChange}>
         <option value="">Select Price Range</option>
-        <option value="below-200">Below $200</option>
-        <option value="200-400">$200 - $400</option>
-        <option value="400-600">$400 - $600</option>
-        <option value="above-600">Above $600</option>
+        <option value="below-200">Below ₹200</option>
+        <option value="200-400">₹200 - ₹400</option>
+        <option value="400-600">₹400 - ₹600</option>
+        <option value="above-600">Above ₹600</option>
       </select>
       </div>
       
